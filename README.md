@@ -139,6 +139,9 @@ No errors found.
 15
 
 ## Screenshots
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/309caee5-e442-455a-88a9-590befcbabb8" />
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/26e3809b-7cfc-451a-adc5-3f44283066e7" />
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/8ad5f938-93f5-4efe-9da1-6a46755f5fa1" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad851377-0932-4e88-bbbe-8f91ec19e0f0" />
 
 
