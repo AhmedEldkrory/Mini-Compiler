@@ -139,8 +139,8 @@ No errors found.
 15
 
 ## Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad851377-0932-4e88-bbbe-8f91ec19e0f0" />
 
-[Include screenshots of the GUI here if available]
 
 ## Contributing
 
