@@ -1,0 +1,24 @@
+# Example: Basic Declarations
+let x = 10;
+let y = x + 5;
+print(y);
+---
+# Example: Assignment and Print
+let x = 1;
+x = x + 2;
+print(x);
+---
+# Example: Parentheses and Operations
+let a = (2 + 3) * 4;
+let b = a / 2;
+print(b);
+---
+# Example: Undefined Variable (Semantic Error)
+let x = 3;
+print(y);
+---
+# Example: Division by Zero (Runtime Error)
+let x = 10;
+let z = x / 0;
+print(z);
+---
